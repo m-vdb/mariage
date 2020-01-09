@@ -44,6 +44,8 @@ a:active, a:hover {
   color: #6D9F77;
 }
 
+/* Images */
+
 section#home {
   position: relative;
   z-index: 1;
@@ -61,10 +63,6 @@ section#home:before {
   opacity: .5;
 }
 
-.home-hero {
-  margin-top: 15%;
-}
-
 section#the-wedding {
   position: relative;
   z-index: 1;
@@ -79,4 +77,25 @@ section#the-wedding:before {
   right: 0;
   background: url("./images/domaine.jpg") center center;
   opacity: .47;
+}
+
+/* Tweaks */
+
+.home-hero {
+  margin-top: 12%;
+}
+
+h1 {
+  font-size: 77px;
+}
+
+.text-bigger {
+  font-size: 22px;
+}
+
+.separator {
+  height: 5px;
+  width: 25px;
+  background-color: #3A4049;
+  margin: auto;
 }
