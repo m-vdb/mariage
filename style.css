@@ -81,6 +81,10 @@ section#the-wedding:before {
 
 /* Tweaks */
 
+html {
+  scroll-behavior: smooth;
+}
+
 .home-hero {
   margin-top: 12%;
 }
