@@ -1,0 +1,68 @@
+.bg-green {
+  background-color: #6D9F77;
+}
+
+.bg-green-transparent {
+  background-color: rgba(109, 159, 119, 0.58);
+}
+
+.bg-white {
+  background-color: #FAFAFA;
+}
+
+h1, h2, h3, p, a, .text-almost-black {
+  color: #3A4049;
+}
+
+.text-white p, .text-white a, .text-white h1, .text-white h2, .text-white h3 {
+  color: white;
+}
+
+a:visited {
+  color: #3A4049;
+}
+
+a:active, a:hover {
+  color: #6A6F76;
+}
+
+.text-green {
+  color: #6D9F77;
+}
+
+section#home {
+  position: relative;
+  z-index: 1;
+}
+
+section#home:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("./images/nous-deux.png") center center;
+  opacity: .5;
+}
+
+.home-hero {
+  margin-top: 15%;
+}
+
+section#the-wedding {
+  position: relative;
+  z-index: 1;
+}
+section#the-wedding:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("./images/domaine.jpg") center center;
+  opacity: .47;
+}
