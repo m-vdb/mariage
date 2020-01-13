@@ -59,7 +59,7 @@ section#home:before {
   bottom: 0;
   left: 0;
   right: 0;
-  background: url("./images/nous-deux.jpg") center center;
+  background: center / cover no-repeat url("./images/nous-deux.jpg");
   opacity: .5;
 }
 
@@ -75,7 +75,7 @@ section#the-wedding:before {
   bottom: 0;
   left: 0;
   right: 0;
-  background: url("./images/domaine.jpg") center center;
+  background: center / cover no-repeat url("./images/domaine.jpg");
   opacity: .47;
 }
 
