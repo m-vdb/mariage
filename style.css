@@ -28,7 +28,7 @@ h1, h2, h3, p, a, .text-almost-black {
   color: #3A4049;
 }
 
-.text-white p, .text-white a, .text-white h1, .text-white h2, .text-white h3 {
+.text-white p, .text-white a, .text-white a:visited, .text-white h1, .text-white h2, .text-white h3 {
   color: white;
 }
 
