@@ -41,7 +41,7 @@
           Margaux<span class="w-100 w-md-auto d-block d-md-inline"> & </span>Maxime
         </h1>
         <p class="text-bigger">
-          <strong class="d-block d-md-inline">12 Septembre 2020</strong>
+          <strong class="d-block d-md-inline">12 Juin 2021</strong>
           <span class="d-none d-md-inline"> | </span>
           <strong class="d-block d-md-inline">Domaine du Vallon des Glauges, Eyguières</strong>
         </p>
@@ -74,7 +74,7 @@
           <p class="text-center mt-5">
             Nous vous attendons<br><br>
 
-            <strong class="text-bigger">le Samedi 12 Septembre 2020</strong><br><br>
+            <strong class="text-bigger">le Samedi 12 Juin 2021</strong><br><br>
 
 
             <strong class="text-bigger">au Domaine du Vallon des Glauges, à Eyguières</strong><br><br>
@@ -119,7 +119,7 @@
           <strong>Notre liste de mariage 🔗</strong>
         </a>
         <br>
-        <strong>Mot de passe: 12092020</strong>
+        <strong>Mot de passe: 12062021</strong>
       </p>
       <br>
       <p class="text-center">Aussi, une urne sera présente le jour J.</p>

@@ -41,7 +41,7 @@
           Margaux<span class="w-100 w-md-auto d-block d-md-inline"> & </span>Maxime
         </h1>
         <p class="text-bigger">
-          <strong class="d-block d-md-inline">12 September 2020</strong>
+          <strong class="d-block d-md-inline">12 June 2021</strong>
           <span class="d-none d-md-inline"> | </span>
           <strong class="d-block d-md-inline">Domaine du Vallon des Glauges, Eyguières</strong>
         </p>
@@ -76,7 +76,7 @@
           <p class="text-center mt-5">
             We invite you<br><br>
 
-            <strong class="text-bigger">on Saturday 12th September 2020</strong><br><br>
+            <strong class="text-bigger">on Saturday 12th June 2021</strong><br><br>
 
 
             <strong class="text-bigger">at the Domaine du Vallon des Glauges, in Eyguières</strong><br><br>
@@ -121,7 +121,7 @@
           <strong>Our registry 🔗</strong>
         </a>
         <br>
-        <strong>Password: 12092020</strong>
+        <strong>Password: 12062021</strong>
       </p>
       <br>
       <p class="text-center">Also, an urn will be available on D day.</p>
