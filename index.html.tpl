@@ -80,7 +80,7 @@
             <strong class="text-bigger">au Domaine du Vallon des Glauges, à Eyguières</strong><br><br>
 
 
-            La cérémonie laïque commencera à 17h, suivie d'un cocktail dînatoire.
+            La cérémonie laïque commencera à 14h, suivie d'un cocktail dînatoire.
           </p>
         </div>
         <div class="col-2 d-md-block d-none"></div>

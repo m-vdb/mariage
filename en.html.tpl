@@ -82,7 +82,7 @@
             <strong class="text-bigger">at the Domaine du Vallon des Glauges, in Eyguières</strong><br><br>
 
 
-            The laic ceremony will start at 5pm, followed by a diner cocktail.
+            The laic ceremony will start at 2pm, followed by a diner cocktail.
           </p>
         </div>
         <div class="col-2 d-md-block d-none"></div>
